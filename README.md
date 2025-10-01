@@ -1,5 +1,9 @@
-<img src="" alt="hacker">
 <h1 align="center">Hi 👋, I'm Sahan Dhanujaya</h1>
+<div align="center">
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="80px">
+  </picture>
+</div>
 <h3 align="center">A professional Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahandhanujaya&label=Profile%20views&color=0e75b6&style=flat" alt="sahandhanujaya" /> </p>
