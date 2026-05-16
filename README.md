@@ -17,7 +17,7 @@
 - 🔭 Currently working on **Spendify Mobile Application**
 - 🌱 Currently learning **Flutter** and **DevOps**
 - 💻 Passionate about **Java, Spring Boot, Web Development, and Mobile Development**
-- 👨‍💻 Portfolio: http://sahandhanujaya.site
+- 👨‍💻 Portfolio: [sahan-dhanujaya.netlify.app](https://sahan-dhanujaya.netlify.app/)
 - 📫 Email: **sahandhanujaya18@gmail.com**
 
 ---
