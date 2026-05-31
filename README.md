@@ -4,7 +4,7 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px" />
 
-### Software Developer | Full-Stack Developer | Mobile App Developer
+### Software Engineer | Full-Stack Developer | Mobile App Developer
 
 <img src="https://komarev.com/ghpvc/?username=sahandhanujaya&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
@@ -93,13 +93,13 @@
 
 ## 📌 Featured Project
 
-### 💰 Spendify - Mobile Expense Management App
+### 📑 Appointment System - Salon Appointment Management System
 
-A mobile application designed to help users manage daily expenses, track spending habits, and improve financial planning.
+A web application designed to help users manage daily appointments, track revenue, manage employees, manage invoices and improve financial planning.
 
-**Tech Used:** React Native, Firebase, Tailwind CSS
+**Tech Used:** Next.js, Express.js, Node.js, Typescript, Cookies, Tailwind CSS, JWT, Claudinary, Vercel 
 
-[View Project](https://github.com/SahanDhanujaya/Spendify.git)
+[View Project](https://github.com/E-Bix-Software-Solutions/salon-booking-and-invoice-system-backend.git)
 
 ---
 
